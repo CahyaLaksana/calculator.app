@@ -7,9 +7,7 @@ namespace Calculator
         static void Main(string[] args)
         {
             Console.Title = "Apliaction Calculator";
-            // ini komentar saya
-            //int a = 10; //deklarasi nilai a, dengan nilai awal 10
-            //int b = 6;  //deklarasi nilai b, dengan nilai awal 6
+
             A:
             Console.WriteLine("Pilihlah salah satu");
             Console.WriteLine("1. Penambahan ");
